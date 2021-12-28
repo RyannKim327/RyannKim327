@@ -3,8 +3,12 @@
 | Personal Info | |
 |---------|--------|
 | Name: | Ryann Kim Sesgundo |
-| Screen names: | RySes |
+| Screen names | RySes |
 | | RyannKim327 |
 | | MPOP |
 | Birth year: | 2001 |
-| Hobby | Programming, Developing |
+| City | Lucena City |
+| Province/Municipality | Quezon Province |
+| Hobby | Programming |
+| | Developing |
+| Email | [GMail](mailto:weryses19@gmail.com) |
