@@ -12,3 +12,5 @@
 | Hobby | Programming |
 | | Developing |
 | Email | [GMail](mailto:weryses19@gmail.com) |
+| Self Ranking | Newbie |
+|------|------|
