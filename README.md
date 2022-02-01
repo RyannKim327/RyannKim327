@@ -19,6 +19,7 @@
 <li><a href="https://github.com/RyannKim327/RySes-Virtual-App">Encryption and Decryption (Java Android Dev)</a>
 <li><a href="https://github.com/RyannKim327/My-Simple-HTML-Coder">HTML Coder (Java Android Dev)</a>
 <li><a href="https://github.com/RyannKim327/Template_1">My Template Messy Coding (Web)</a>
+<li><a href="https://github.com/RyannKim327/NewTemplate">New Template Light (Web)</a>
 </ul>
 </fieldset>
 </div>
