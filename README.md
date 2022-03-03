@@ -13,7 +13,7 @@
 <li><a href="https://github.com/RyannKim327/Baybayin-Keyboard">Baybayin Keyboard (Web)</a>
 <li><a href="https://github.com/RyannKim327/CMD-Website">CMD Website (Web)</a>
 <li><a href="https://github.com/RyannKim327/BhieBot">BhieBot (Facebook Bot)</a>
-<li><a href="https://github.com/RyannKim327/Front-end-Editor">Front-end Editor (Bin file)</a>
+<li><a href="https://github.com/RyannKim327/Front-end-Editor">Front-end Editor (Java Android Development with Bin file)</a>
 <li><a href="https://github.com/RyannKim327/Request-Permission-Android-6">Request Permission (Java Android Dev)</a>
 <li><a href="https://github.com/RyannKim327/cpp-compilled-programs">C Plus Plus Basic Programs (C++)</a>
 <li><a href="https://github.com/RyannKim327/Java-compilled-programs">Java Basic Programs (Java Console)</a>
