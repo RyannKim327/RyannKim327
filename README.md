@@ -1,7 +1,5 @@
 ![Image](img/dp.jpg)
 ## Welcome to RyannKim327's Profile
-#### MPOP Reverse II
-
 
 ### Personal Infomation
 > Greetings!!!
