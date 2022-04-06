@@ -1,8 +1,6 @@
-<div>
-<img width="100" style="margin-right:10px;" src="img/dp.jpg">
-<h1 style="display: inline; position: absolute;">Welcome to</h1>
-<h5 style="display: inline; top:50px; position: absolute;">RyannKim327's Profile</h5>
-</div>
+![Image](img/dp.jpg)
+## Welcome to RyannKim327's Profile
+#### MPOP Reverse II
 
 
 ### Personal Infomation
