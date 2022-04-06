@@ -30,3 +30,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=monokai)](https://github.com/RyannKim327/RyannKim327)
+
+[Credits to this repository](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
