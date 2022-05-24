@@ -29,7 +29,7 @@ For more projects, just click [this](https://github.com/stars/RyannKim327/lists/
 ---
 
 ### My lists
-- [GUI Programs](https://github.com/stars/RyannKim327/list/gui)
+- [GUI Programs](https://github.com/stars/RyannKim327/lists/gui)
 - [Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)
 - [Android Development Projects](https://github.com/stars/RyannKim327/lists/android-development)
 - [Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)
