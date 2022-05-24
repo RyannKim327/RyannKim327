@@ -24,6 +24,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=simple-file-hosting&theme=monokai" />
 </a>
 
+For more projects, just click [this](https://github.com/stars/RyannKim327/lists/my-repos)
+
+---
+
+### My lists
+- [GUI Programs](https://github.com/stars/RyannKim327/list/gui)
+- [Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)
+- [Android Development Projects](https://github.com/stars/RyannKim327/lists/android-development)
+- [Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)
+- [Basic Conditioning Projects](https://github.com/stars/RyannKim327/lists/basic-conditioning)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=monokai)
