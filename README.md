@@ -34,6 +34,7 @@ For more projects, just click [this](https://github.com/stars/RyannKim327/lists/
 - [Android Development Projects](https://github.com/stars/RyannKim327/lists/android-development)
 - [Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)
 - [Basic Conditioning Projects](https://github.com/stars/RyannKim327/lists/basic-conditioning)
+- [Console projects](https://github.com/stars/RyannKim327/lists/console-projects)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=monokai)
