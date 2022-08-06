@@ -1,4 +1,4 @@
-![Image](img/dp.jpg)
+
 ## Welcome to RyannKim327's Profile
 
 ### Personal Infomation
