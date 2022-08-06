@@ -7,25 +7,7 @@
 > This is Ryann Kim Sesgundo, a simple and newbie developer from Quezon Province.
 
 ---
-### List of repositories
-<a href="https://github.com/RyannKim327/Baybayin-Keyboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=Baybayin-Keyboard&theme=monokai" />
-</a>
-<a href="https://github.com/RyannKim327/Keyboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=Keyboard&theme=monokai" />
-</a>
-<a href="https://github.com/RyannKim327/Front-end-Editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=Front-end-Editor&theme=monokai" />
-</a>
-<a href="https://github.com/RyannKim327/CMD-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=CMD-Website&theme=monokai" />
-</a>
-<a href="https://github.com/RyannKim327/Simple-File-hosting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryannkim327&repo=simple-file-hosting&theme=monokai" />
-</a>
-
 For more projects, just click [this](https://github.com/stars/RyannKim327/lists/my-repos)
-
 ---
 
 ### My lists
