@@ -2,10 +2,7 @@
 ## Welcome to RyannKim327's Profile
 
 ### Personal Infomation
-> Greetings!!!
-
-> This is Ryann Kim Sesgundo, a simple and newbie developer from Quezon Province.
-
+> Hello, I am Ryann Kim Sesgundo, a so-called developer from Quezon Province. I'm just trying to contribute here not just to backup my codes, but also to share what I've learned. I'm using Java 7 in android development, since I'm using android phone to develop. I use NodeJS to learn more Javascript. I'm also trying some Webscraping thru Python, and some basic programs with other languages. I also try to develop some website using HTML, CSS and Javascript for front-end and PHP, MySQL for backend. I'm still focusing now with python, (GUI and WebScraping). And trying to develop my visualization skills in designing.
 ---
 For more projects, just click [this](https://github.com/stars/RyannKim327/lists/my-repos)
 ---
