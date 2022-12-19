@@ -19,5 +19,6 @@ For more projects, just click [this](https://github.com/stars/RyannKim327/lists/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=monokai)](https://github.com/RyannKim327/RyannKim327)
+![Image](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical)
 
 [Credits to this repository](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
