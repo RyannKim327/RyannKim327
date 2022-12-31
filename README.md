@@ -2,8 +2,11 @@
 #### MPOP Reverse II (Ryann Kim Sesgundo)
 
 ---
+<center>
 
-![](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=500&multiline=true&width=500&height=120&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Professor;Soon+to+be+a+Full+Stack+Developer)
+![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Professor;Soon+to+be+a+Full+Stack+Developer)
+
+</center>
 
 ---
 
@@ -84,7 +87,7 @@
 ---
 ### Activities
 | | |
-| --- | --- |
+| :--- | ---: |
 | ![](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=radical)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyannKim327&theme=radical) |
 
