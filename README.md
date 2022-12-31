@@ -30,7 +30,7 @@
 
 ---
 
-### Technologies with some of my projects
+### Some of my Projects with their Languages
 <table>
 <tr>
 <td>
