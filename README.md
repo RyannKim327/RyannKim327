@@ -68,6 +68,7 @@
 | [Facebook Bot](https://github.com/RyannKim327/FacebookBot) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [Telegram Bot](https://github.com/RyannKim327/Telegram-Bot) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [Sulat Baybayin](https://github.com/RyannKim327/FacebookBot) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
+| [Facebook Bot](https://github.com/RyannKim327/Facebook-Bot-Python) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
 
 </td>
 <td>
