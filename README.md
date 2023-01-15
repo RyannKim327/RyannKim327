@@ -92,4 +92,4 @@
 | ![](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=radical)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyannKim327&theme=radical) |
 
-![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)
