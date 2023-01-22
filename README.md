@@ -96,4 +96,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)
 ---
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=ryannkim327&bg_color=#ffffff&color=333333&line=ffffff&point=aaaaaa&area=true&hide_border=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ryannkim327&theme=radical&area=true&hide_border=true)
