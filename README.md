@@ -96,4 +96,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&title=Commits,MultiLanguage,Repositories,Stars&column=4)
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RyannKim327&theme=radical)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RyannKim327&theme=redical)
