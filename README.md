@@ -125,3 +125,7 @@
 ---
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RyannKim327&theme=redical)
+
+---
+### Quotation
+> You may say you learn on your own, but never say you learn alone.
