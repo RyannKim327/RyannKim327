@@ -65,7 +65,7 @@
 
 | Compillations | Language |
 | :--- | :---: |
-| [Python Programs](https://github.com/RyannKim327/Its-Py) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
+| [Python Programs](https://github.com/RyannKim327/Python-Programming-Compillation) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
 | [C# Programs](https://github.com/RyannKim327/My-CS-Program) | ![](https://img.shields.io/badge/-C_Sharp-black?color=178600&style=flat) |
 | [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs) | ![](https://img.shields.io/badge/-CPP-black?color=f34b7d&style=flat) |
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
