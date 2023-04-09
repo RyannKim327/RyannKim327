@@ -129,3 +129,7 @@
 ---
 ### Quotation
 > You may say you learn on your own, but never say you learn alone.
+
+---
+### Motto
+> Destiny to win
