@@ -134,3 +134,4 @@
 | | There's always a message given to you by this world. |
 | | Alone, it is not a part of sadness, but an opportunity to think. |
 | Motto | Destiny to win |
+| Life Verse | Revelations 3:19 |
