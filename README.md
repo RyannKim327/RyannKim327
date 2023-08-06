@@ -121,10 +121,11 @@
 | ![](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=radical)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyannKim327&theme=radical) |
 
-![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&column=4)
+| | |
+|---|---|
+| ![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&column=4) | ![](https://github-readme-stats.vercel.app/api/wakatime?username=ryannkim327)
 ---
-| [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyannKim327&bg_color=0a0119&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) | [!](https://github-readme-stats.vercel.app/api/wakatime?username=ryannkim327)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyannKim327&bg_color=0a0119&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 | |  |
 | --- | --- |
