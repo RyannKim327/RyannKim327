@@ -129,8 +129,7 @@
 ---
 | |  |
 | --- | --- |
-| Quotation |You may say you learn on your own, but never say you learn alone. |
-| | There are people who won't understand what you really doing. |
+| Quotation | There are people who won't understand what you really doing. |
 | | There's always a message given to you by this world. |
 | | Alone, it is not a part of sadness, but an opportunity to think. |
 | Motto | Destiny to win |
