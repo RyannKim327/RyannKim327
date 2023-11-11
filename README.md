@@ -6,6 +6,8 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Professor;Soon+to+be+a+Full+Stack+Developer)
 
+[![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
+
 </center>
 
 ---
@@ -36,10 +38,6 @@
 	]
 }
 ```
----
-### Brief Introduction About Myself
-<blockquote style="text-align: justify;">&emsp;I am Ryann Kim Sesgundo, or RyannKim327, a simple newbie and passionate programmer from Philippines. I'm still trying to break my limitations, by studying different programming languages, which my forte is actually Java. I developed or maybe say rebuild my first android application last April 2018, that gives me a kick up to learn development and improve my logical thinkings. To express and to improve my knowledge. I try to guide some online, that helps me to improve, also to review my knowledge from my past experiences. I was actually focused with the logic of the program, and then, I try to program each of them, based on what idea came to me.</blockquote>
-
 ---
 
 ### My Lists
