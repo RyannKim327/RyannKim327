@@ -132,4 +132,3 @@
 | | Alone, it is not a part of sadness, but an opportunity to think. |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
-
