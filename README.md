@@ -10,6 +10,9 @@
 
 </center>
 
+
+---
+### Basic Informations
 <table>
 	<tr>
 		<td style="vertical-align: top;">
@@ -76,34 +79,6 @@
 	</tr>
 </table>
 
----
-### Basic Informations
-```JSON
-{
-	"name": "Ryann Kim Sesgundo",
-	"screenNames": [
-		"RyannKim327",
-		"MPOP",
-		"RySes"
-	],
-	"email": "mpoprev2@email.com",
-	"birthYear": 2001,
-	"gender": "male",
-	"isStudent": true,
-	"isPro": false,
-	"location": "Quezon Province Philippines",
-	"languages": [
-		"HTML",
-		"CSS",
-		"JavaScript/NodeJS",
-		"Java",
-		"XML (Android Development)",
-		"Python",
-		"PHP",
-		"MySQL"
-	]
-}
-```
 ---
 
 ### My Lists
