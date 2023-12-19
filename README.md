@@ -10,6 +10,72 @@
 
 </center>
 
+<table>
+	<tr>
+		<td style="vertical-align: top;">
+			<img src="assets/mpop.jpg" height="100">
+			<h3>Ryann Kim Sesgundo</h3>
+			<h5>Developer/Programmer</h5>
+			<table>
+				<tr>
+					<th>
+						Age
+					</th>
+					<th>:
+					</th>
+					<td>
+						22
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Birthyear
+					</th>
+					<th>:
+					</th>
+					<td>
+						2001
+					</td>
+				<tr>
+					<th>
+						Nickname
+					</th>
+					<th>:
+					</th>
+					<td>
+						Kim
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td style="vertical-align: top;">
+			<h2>Education</h2>
+			<ul>
+				<li>Lucena West I Elementary School
+					<p>Elementary</p>
+					<p>2007-2010</p>
+				</li>
+				<li>Bataan Elementaey School
+					<p>Elementary</p>
+					<p>2010-2014</p>
+				</li>
+				<li>Calubcub 1.0 National Highschool
+					<p>Highschool</p>
+					<p>2014-2018</p>
+				</li>
+				<li>AMA Computer Colleges
+					<p>Senior Highschool</p>
+					<p>2018-2020</p>
+				</li>
+				<li>Dalubhasaan ng Lungsod ng Lucena
+					<p>College</p>
+					<p>2022-Current</p>
+				</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 ---
 ### Basic Informations
 ```JSON
