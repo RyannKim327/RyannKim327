@@ -16,7 +16,7 @@
 <table>
 	<tr>
 		<td style="vertical-align: top;">
-			<img src="assets/mpop.jpg" height="100">
+			<img src="/assets/mpop.jpg" height="100">
 			<h3>Ryann Kim Sesgundo</h3>
 			<h5>Developer/Programmer</h5>
 			<table>
