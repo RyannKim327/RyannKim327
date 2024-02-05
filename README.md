@@ -4,9 +4,7 @@
 ---
 <center>
 
-![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Professor;Soon+to+be+a+Full+Stack+Developer)
-
-[![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
+![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
 
 </center>
 
@@ -15,7 +13,7 @@
 ### Basic Informations
 <table>
 	<tr>
-		<td style="vertical-align: top;">
+		<td>
 			<img src="https://ryannkim327.vercel.app/img/ako.png" height="100">
 			<h3>Ryann Kim Sesgundo</h3>
 			<h5>Developer/Programmer</h5>
@@ -48,6 +46,9 @@
 					<td>
 						Kim
 					</td>
+				</tr>
+				<tr>
+				<td><br><br><br><br><br><br><br><br></td>
 				</tr>
 			</table>
 		</td>
@@ -173,3 +174,6 @@
 | | Alone, it is not a part of sadness, but an opportunity to think. |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
+
+[![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
+
