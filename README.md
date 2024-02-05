@@ -2,12 +2,8 @@
 #### MPOP Reverse II (Ryann Kim Sesgundo)
 
 ---
-<center>
 
 ![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
-
-</center>
-
 
 ---
 ### Basic Informations
@@ -49,13 +45,15 @@
 				</tr>
 				<tr>
 				<td></td>
+				<td></td>
 				</tr>
 				<tr>
+				<td><br><br><br><br><br><br><br><br><br><br><br></td>
 				<td><br><br><br><br><br><br><br><br><br><br><br></td>
 				</tr>
 			</table>
 		</td>
-		<td style="vertical-align: top;">
+		<td>
 			<h2>Education</h2>
 			<ul>
 				<li>Lucena West I Elementary School
