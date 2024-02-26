@@ -102,8 +102,8 @@
 
 ### Some of my Projects with their Languages
 <table>
-	<tr>
-		<td>
+<tr>
+<td>
 | Compillations | Language |
 | :--- | :---: |
 | [Python Programs](https://github.com/RyannKim327/Python-Programming-Compillation) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
@@ -112,8 +112,8 @@
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
 | [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects) | ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat) |
 | [PHP and MySQL](https://github.com/RyannKim327/Basic-CRUD-in-PHP-and-MySQL) | ![](https://img.shields.io/badge/MySQL-PHP-black?color=4F5D95&style=flat) |
-		</td>
-		<td>
+</td>
+<td>
 | NodeJS Packages | Language |
 | :--- | :---: |
 | [Baybayin Transliterator](https://github.com/RyannKim327/Baybayin-Transliterator) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
@@ -123,10 +123,10 @@
 | [Encryptions](https://github.com/RyannKim327/MPOP-Encryptions) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Gender Identification](https://github.com/RyannKim327/Gender-Identification) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Biblegateway](https://github.com/RyannKim327/biblegateway) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
-		</td>
-	</tr>
-	<tr>
-		<td>
+</td>
+</tr>
+<tr>
+<td>
 | Bots | Language |
 | :--- | :---: |
 | [BhieBot](https://github.com/RyannKim327/BhieBot) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
@@ -135,15 +135,15 @@
 | [Sulat Baybayin](https://github.com/RyannKim327/FacebookBot) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
 | [Facebook Bot](https://github.com/RyannKim327/Facebook-Bot-Python) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
 | [Chat-App with auto bots](https://github.com/RyannKim327/chat-app) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
-		</td>
-		<td>
+</td>
+<td>
 | Software | Server side |
 | :---: | :---: |
 | [![](https://img.shields.io/badge/Launcher_App-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/Launcher-App) | [![](https://img.shields.io/badge/Server_Side_of_Launcher-NodeJS-black?color=336633&style=flat)](https://github.com/RyannKim327/Server-Side-of-Launcher) |
 | [![](https://img.shields.io/badge/Front_end_Editor-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/Front-end-Editor) | ![](https://img.shields.io/badge/Not_found_server-PHP_MySQL-black?color=4F5D95&style=flat) |
 | [![](https://img.shields.io/badge/19N0R3_Poetry_App-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/19N0R3-App) | [![](https://img.shields.io/badge/19N0R3_Server_Side-NodeJS-black?color=336633&style=flat)](https://github.com/RyannKim327/19N0R3) |
-		</td>
-	</tr>
+</td>
+</tr>
 </table>
 
 > This table is inspired by: [DrKostas](https://github.com/drkostas)
