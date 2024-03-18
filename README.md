@@ -173,6 +173,11 @@
 
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyannKim327&bg_color=0a0119&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/RyannKim327/github-readme-activity-graph)
 
+<figure>
+<embed src="https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg">
+</embed>
+</figure>
+
 ---
 |  |  |
 | --- | --- |
