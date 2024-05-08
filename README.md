@@ -185,7 +185,7 @@
 | | Alone, it is not a part of sadness, but an opportunity to think. |
 | | Innovation will reflect by who you are. |
 | | You won't done something, if you won't start from something. |
-| | Knowledge is diffent with wisdom, always remember that |
+| | Knowledge is different with wisdom, always remember that |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
 | | John 3:19 |
