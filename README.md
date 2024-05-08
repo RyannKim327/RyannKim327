@@ -3,19 +3,18 @@
 
 ---
 
-<table id="table">
+<!--table id="table">
 		<tr><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬛</td><td>⬛</td><td>⬛</td><td>🟩</td><td>⬛</td><td>⬛</td></tr><tr><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td><td>⬛</td></tr></table>
 
----
-
 ![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
+-->
 
 ---
 ### Basic Informations
 <table>
 	<tr>
 		<td>
-			<img src="https://ryannkim327.vercel.app/img/ako.png" height="100">
+			<img src="https://ryannkim327.is-a.dev/assets/img/ako-pero-transparent.png" height="100">
 			<h3>Ryann Kim Sesgundo</h3>
 			<h5>Developer/Programmer</h5>
 			<table>
@@ -184,7 +183,13 @@
 | Quotation | There are people who won't understand what you really doing. |
 | | There's always a message given to you by this world. |
 | | Alone, it is not a part of sadness, but an opportunity to think. |
+| | Innovation will reflect by who you are. |
+| | You won't done something, if you won't start from something. |
+| | Knowledge is diffent with wisdom, always remember that |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
+| | John 3:19 |
 
-[![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
+Current ranking: [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
+
+
