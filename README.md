@@ -186,6 +186,7 @@
 | | Innovation will reflect by who you are. |
 | | You won't done something, if you won't start from something. |
 | | Knowledge is different with wisdom, always remember that |
+| | Treasure each day of you life, you will never have regrets someday. |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
 | | John 3:19 |
