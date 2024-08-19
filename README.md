@@ -1,7 +1,9 @@
 ### About Me:
 #### MPOP Reverse II (Ryann Kim Sesgundo)
 
-<code>[gist id=e99f1a5e9f777937f55d4936ab471bae file=weekly-development-breakdown bump=1]</code>
+```
+https://gist.githubusercontent.com/RyannKim327/e99f1a5e9f777937f55d4936ab471bae/raw/85cce0700bbe39c96ab58bf58bc67f8627144d99/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown
+```
 
 <!--
 ![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
