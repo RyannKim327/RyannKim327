@@ -1,10 +1,6 @@
 ### About Me:
 #### MPOP Reverse II (Ryann Kim Sesgundo)
 
-<!--
-![](https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=18&duration=2500&pause=500&width=500&vCenter=true&center=true&height=25&lines=I+am+RyannKim327;Android+Application+Developer;Backend+Developer;Soon+to+be+a+Full+Stack+Developer)
--->
-
 ---
 ### Basic Informations
 <table>
