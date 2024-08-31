@@ -109,6 +109,10 @@
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
 | [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects) | ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat) |
 | [PHP and MySQL](https://github.com/RyannKim327/Basic-CRUD-in-PHP-and-MySQL) | ![](https://img.shields.io/badge/MySQL-PHP-black?color=4F5D95&style=flat) |
+| [Django Framework](https://github.com/RyannKim327/DjangoPractice) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
+| [Flask Framework](https://github.com/RyannKim327/FlaskProject) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
+| [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat)
+
 
 </td>
 <td>
@@ -122,7 +126,7 @@
 | [Encryptions](https://github.com/RyannKim327/MPOP-Encryptions) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Gender Identification](https://github.com/RyannKim327/Gender-Identification) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Biblegateway](https://github.com/RyannKim327/biblegateway) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
-
+| [Google Scholar Scrape](https://github,com/RyannKim327/Google-Scholar-Scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 </td>
 </tr>
 <tr>
