@@ -126,7 +126,7 @@
 | [Encryptions](https://github.com/RyannKim327/MPOP-Encryptions) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Gender Identification](https://github.com/RyannKim327/Gender-Identification) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
 | [Biblegateway](https://github.com/RyannKim327/biblegateway) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat)|
-| [Google Scholar Scrape](https://github,com/RyannKim327/Google-Scholar-Scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
+| [Google Scholar Scrape](https://github.com/RyannKim327/Google-Scholar-Scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 </td>
 </tr>
 <tr>
