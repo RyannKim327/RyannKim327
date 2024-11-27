@@ -2,6 +2,7 @@
 #### MPOP Reverse II (Ryann Kim Sesgundo)
 
 ---
+<!--
 ### Basic Informations
 <table>
 	<tr>
@@ -79,7 +80,7 @@
 	</tr>
 </table>
 
----
+--->
 ### My Lists
 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development)
 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)
