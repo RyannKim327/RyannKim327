@@ -1,5 +1,5 @@
 ### About Me:
-#### MPOP Reverse II (Ryann Kim Sesgundo)
+#### MPOP Reverse II 
 
 ---
 <!--
