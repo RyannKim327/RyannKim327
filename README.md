@@ -188,6 +188,15 @@
 | | You won't done something, if you won't start from something. |
 | | Knowledge is different with wisdom, always remember that |
 | | Treasure each day of you life, you will never have regrets someday. |
+| | Sometimes, what we think is useless, it becomes helpful. |
+| | I may know something, but not everything. |
+| | Always listen to others, they will help you to grow. |
+| | If we focus on everything, we will learn nothing. |
+| | MPOP means Master Piece in a Piece of Paper, you can do something incredible where you start in a small things. |
+| | Fundamentals are really helpful, try to mater it. |
+| | Programming is not just about the syntax, it's about logic |
+| | If math and science combine, and you add some logics, you can do it onto your device. |
+| | How incredible, our devices are just made with multiple capacitors? |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
 | | John 3:19 |
