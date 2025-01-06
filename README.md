@@ -1,7 +1,7 @@
 ### About Me:
 #### MPOP Reverse II 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut+labore+et+dolore+magna+aliqua)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua)](https://git.io/typing-svg) 
 
 ---
 <!--
