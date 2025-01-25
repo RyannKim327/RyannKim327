@@ -2,9 +2,7 @@
 #### MPOP Reverse II 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua)](https://git.io/typing-svg) 
-
-![](https://gist.githubusercontent.com/RyannKim327/e99f1a5e9f777937f55d4936ab471bae/raw/cfcb128dd564392625afe45949fa2f6903afbf22/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown)
-
+ 
 ---
 <!--
 ### Basic Informations
