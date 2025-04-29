@@ -1,91 +1,10 @@
 ### About Me:
 #### MPOP Reverse II 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua)](https://git.io/typing-svg) 
----
 
-<object data="https://ryannkim327.is-a.dev"></object>
- 
----
-<!--
-### Basic Informations
-<table>
-	<tr>
-		<td>
-			<img src="https://ryannkim327.is-a.dev/assets/img/ako-pero-transparent.png" height="100">
-			<h3>Ryann Kim Sesgundo</h3>
-			<h5>Developer/Programmer</h5>
-			<table>
-				<tr>
-					<th>
-						Age
-					</th>
-					<th>:
-					</th>
-					<td>
-						22
-					</td>
-				</tr>
-				<tr>
-					<th>
-						Birthyear
-					</th>
-					<th>:
-					</th>
-					<td>
-						2001
-					</td>
-				<tr>
-					<th>
-						Nickname
-					</th>
-					<th>:
-					</th>
-					<td>
-						Kim
-					</td>
-				</tr>
-				<tr>
-				<td></td>
-				<td></td>
-				<td></td>
-				</tr>
-				<tr>
-				<td><br><br><br><br><br><br><br><br><br><br><br></td>
-				<td><br><br><br><br><br><br><br><br><br><br><br></td>
-				<td><br><br><br><br><br><br><br><br><br><br><br></td>
-				</tr>
-			</table>
-		</td>
-		<td>
-			<h2>Education</h2>
-			<ul>
-				<li>Lucena West I Elementary School
-					<p>Elementary</p>
-					<p>2007-2010</p>
-				</li>
-				<li>Bataan Elementaey School
-					<p>Elementary</p>
-					<p>2010-2014</p>
-				</li>
-				<li>Calubcub 1.0 National Highschool
-					<p>Highschool</p>
-					<p>2014-2018</p>
-				</li>
-				<li>AMA Computer Colleges
-					<p>Senior Highschool</p>
-					<p>2018-2020</p>
-				</li>
-				<li>Dalubhasaan ng Lungsod ng Lucena
-					<p>College</p>
-					<p>2022-Current</p>
-				</li>
-			</ul>
-		</td>
-	</tr>
-</table>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua)](https://git.io/typing-svg)  
 
---->
+---
 ### My Lists
 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development)
 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)
@@ -174,6 +93,17 @@
 | ![](https://github-readme-stats.vercel.app/api?username=ryannkim327&show_icons=true&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=radical&hide=jupyter%20notebook)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyannKim327&theme=radical&hide=jupyter%20notebook) |
 | ![](https://github-profile-trophy.vercel.app/?username=RyannKim327&theme=radical&column=4) | ![Mr.RySes Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ryannkim327&theme=radical&layout=compact&langs_count=10) |
+
+---
+### Some resources and tools:
+1. [CSS Icons](https://cssicon.space/#/animate/map/to/plus)
+2. [TailwindCSS](https://tailwindcss.com/)
+3. [FontAwesome](https://fontawesome.com/)
+4. [OpenSourceAlternative](https://opensourcealternative.to/)
+5. [Neovim](https://neovim.io/)
+6. [GeeksForGeeks](https://www.geeksforgeeks.org/)
+7. [W3schools](https://w3schools.com)
+8. [NerdFonts](https://www.nerdfonts.com/font-downloads)
 
 ---
 ### Activity Graph based on Commits
