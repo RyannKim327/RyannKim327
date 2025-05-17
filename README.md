@@ -224,6 +224,13 @@ QML                      1 repo              ░░░░░░░░░░░�
 | Life Verse | Revelations 3:19 |
 | | John 3:19 |
 
+---
+### Socials
+[![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/facebook.svg)](https://facebook.com/MPOP.2016)
+[![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/discord.svg)](https://discord.com/@ryannkim327)
+[![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/linkedin.svg)](https://linkedin.com/in/RyannKim327)
+[![]((https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/tiktok.svg)](https://tiktok.com/@ryannkim327)
+
 [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
 [![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876.svg)](https://wakatime.com/@8ef6ba9a-e605-4488-8da5-581413894876)
 
