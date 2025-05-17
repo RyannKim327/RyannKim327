@@ -1,5 +1,5 @@
-<h3 align="center">Ryann Kim M. Sesgundo</h3>
-<h5 align="center">[MPOP Reverse II]</h5> 
+<h1 align="center">Ryann Kim M. Sesgundo</h1>
+<h3 align="center">[MPOP Reverse II]</h3> 
 
 
 <p align="center">
