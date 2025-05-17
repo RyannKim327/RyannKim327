@@ -32,7 +32,7 @@
 | [C# Programs](https://github.com/RyannKim327/C-Sharp-Compillations) | ![](https://img.shields.io/badge/-C_Sharp-black?color=178600&style=flat) |
 | [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs) | ![](https://img.shields.io/badge/-CPP-black?color=f34b7d&style=flat) |
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs) | ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat) |
-| [SQL Samples](https://github.com/RyannKim327/SQL-Samples) | ![](https://img.shields.io/badge/-SQL-black?color=3A7DC0style=flat) |
+| [SQL Samples](https://github.com/RyannKim327/SQL-Samples) | ![](https://img.shields.io/badge/-SQL-black?color=3A7DC0&style=flat) |
 | [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects) | ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat) |
 | [PHP and MySQL](https://github.com/RyannKim327/Basic-CRUD-in-PHP-and-MySQL) | ![](https://img.shields.io/badge/MySQL-PHP-black?color=4F5D95&style=flat) |
 | [Django Framework](https://github.com/RyannKim327/DjangoPractice) | ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat) |
