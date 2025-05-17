@@ -229,24 +229,24 @@ QML                      1 repo              ░░░░░░░░░░░�
 <table>
   <tr>
     <td>
-
-      [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/facebook.svg)](https://facebook.com/MPOP.2016)
-    
+      <a href="https://facebook.com/MPOP.2016">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/facebook.svg">
+      </a>
+    </td>
+    <td>  
+      <a href="https://discord.com/@ryannkim327">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/discord.svg">
+      </a>
     </td>
     <td>
-    
-      [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/discord.svg)](https://discord.com/@ryannkim327)
-    
+      <a href="https://linkedin.com/in/RyannKim327">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/linkedin.svg">
+      </a>
     </td>
     <td>
-    
-      [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/linkedin.svg)](https://linkedin.com/in/RyannKim327)
-    
-    </td>
-    <td>
-    
-      [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/tiktok.svg)](https://tiktok.com/@ryannkim327)
-  
+      <a href="https://tiktok.com/@ryannkim327">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/tiktok.svg">
+      </a>
     </td>  
   </tr>
 </table
