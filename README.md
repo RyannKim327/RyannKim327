@@ -116,6 +116,9 @@
 ### Coding activity based on Wakatime
 [![Mr.RySes's Coding Activity Graph](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 |  |  |
 | --- | --- |
