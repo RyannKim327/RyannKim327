@@ -230,22 +230,22 @@ QML                      1 repo              ░░░░░░░░░░░�
   <tr>
     <td>
       <a href="https://facebook.com/MPOP.2016">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/facebook.svg">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/facebook.svg">
       </a>
     </td>
     <td>  
       <a href="https://discord.com/@ryannkim327">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/discord.svg">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/discord.svg">
       </a>
     </td>
     <td>
       <a href="https://linkedin.com/in/RyannKim327">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/linkedin.svg">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/linkedin.svg">
       </a>
     </td>
     <td>
       <a href="https://tiktok.com/@ryannkim327">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/currentColor/tiktok.svg">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/tiktok.svg">
       </a>
     </td>  
   </tr>
