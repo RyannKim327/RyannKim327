@@ -1,6 +1,5 @@
-### About Me:
-
-<p align="center">Ryann Kim M. Sesgundo [MPOP Reverse II]</p> 
+<h3 align="center">Ryann Kim M. Sesgundo</h3>
+<h5 align="center">[MPOP Reverse II]</h5> 
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua)](https://git.io/typing-svg)  
