@@ -24,9 +24,9 @@
 ---
 
 ### Some of my Projects with their Languages
-<table style="vertical-align: top;">
-<tr style="vertical-align: top;">
-<td>
+<table valign="top">
+<tr valign="top">
+<td valign="top">
 
 | Compillations | Language |
 | :--- | :---: |
@@ -43,7 +43,7 @@
 
 
 </td>
-<td>
+<td valign="top">
 
 | NodeJS Packages | Language |
 | :--- | :---: |
@@ -57,8 +57,8 @@
 | [Google Scholar Scrape](https://github.com/RyannKim327/Google-Scholar-Scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 </td>
 </tr>
-<tr style="vertical-align: top;">
-<td>
+<tr valign="top">
+<td valign="top">
 
 | Bots | Language |
 | :--- | :---: |
@@ -71,7 +71,7 @@
 | [TeleBot-Typescript](https://github.com/RyannKim327/TeleBot-Typescript) | ![](https://img.shields.io/badge/-Typescript-black?color=3178c6&style=flat) |
 
 </td>
-<td>
+<td valign="top">
 
 | Software | Server side |
 | :---: | :---: |
