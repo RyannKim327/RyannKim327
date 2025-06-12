@@ -218,6 +218,8 @@ QML                      1 repo              ░░░░░░░░░░░�
 | | Programming is not just about the syntax, it's about logic |
 | | If math and science combine, and you add some logics, you can do it onto your device. |
 | | How incredible, our devices are just made with multiple capacitors? |
+| | Sometimes, we just need is to accept, rather to force for something that we're not meant to have. |
+| | Don't be rude, listen and accept, it is for your good. |
 | Motto | Destiny to win |
 | Life Verse | Revelations 3:19 |
 | | John 3:19 |
