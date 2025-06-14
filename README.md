@@ -77,7 +77,7 @@
 | :---: | :---: |
 | [![](https://img.shields.io/badge/Launcher_App-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/Launcher-App) | [![](https://img.shields.io/badge/Server_Side_of_Launcher-NodeJS-black?color=336633&style=flat)](https://github.com/RyannKim327/Server-Side-of-Launcher) |
 | [![](https://img.shields.io/badge/Front_end_Editor-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/Front-end-Editor) | ![](https://img.shields.io/badge/Not_found_server-PHP_MySQL-black?color=4F5D95&style=flat) |
-| [![](https://img.shields.io/badge/19N0R3_Poetry_App-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/19N0R3-App) | [![](https://img.shields.io/badge/19N0R3_Server_Side-NodeJS-black?color=336633&style=flat)](https://github.com/RyannKim327/19N0R3) |
+| [![](https://img.shields.io/badge/19N0R3_Poetry_App-Java-black?color=b07219&style=flat)](https://github.com/RyannKim327/19N0R3-App) | [![](https://img.shields.io/badge/19N0R3_Server_Side-NodeJS-black?color=336633&style=flat)](https://github.com/RyannKim327/Poetry) |
 
 </td>
 </tr>
