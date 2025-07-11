@@ -199,6 +199,9 @@ QML                      1 repo              ░░░░░░░░░░░�
  Last Updated on 11/07/2025 18:30:15 UTC
 <!--END_SECTION:waka-->
 
+### Contribution Calendar Metrics
+![Metrics](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/metrics.plugin.isocalendar.fullyear.svg)
+
 ---
 |  |  |
 | --- | --- |
