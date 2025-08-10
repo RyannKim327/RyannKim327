@@ -86,10 +86,6 @@
 > This table is inspired by: [DrKostas](https://github.com/drkostas)
 
 ---
-### Listening to Spotify
-![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
-
----
 ### Activities
 |  |  |
 | :--- | ---: |
@@ -107,6 +103,7 @@
 6. [GeeksForGeeks](https://www.geeksforgeeks.org/)
 7. [W3schools](https://w3schools.com)
 8. [NerdFonts](https://www.nerdfonts.com/font-downloads)
+9. [Roadmaps](https://roadmap.sh)
 
 ---
 ### Activity Graph based on Commits
@@ -115,6 +112,12 @@
 ---
 ### Coding activity based on Wakatime
 [![Mr.RySes's Coding Activity Graph](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)
+
+---
+### Listening to Spotify
+![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2048%20mins-blue)
