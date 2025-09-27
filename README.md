@@ -125,6 +125,11 @@
 
 ---
 
+### Github Contribution
+[![GitHub Streak](https://streak-stats.demolab.com?user=RyannKim327&theme=transparent&date_format=j%2Fn%5B%2FY%5D&card_width=750&card_height=190)](https://git.io/streak-stats)
+
+---
+
 ### Listening to Spotify
 
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
@@ -218,9 +223,6 @@ QML                      1 repo              ░░░░░░░░░░░�
 ### Contribution Calendar Metrics
 
 ![Metrics](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/metrics.plugin.isocalendar.fullyear.svg)
-
-### Github Contribution
-[![GitHub Streak](https://streak-stats.demolab.com?user=RyannKim327&theme=transparent&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=190)](https://git.io/streak-stats)
 
 ---
 
