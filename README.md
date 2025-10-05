@@ -12,7 +12,7 @@
 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development)
 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)
 3. [Basic Conditioning](https://github.com/stars/RyannKim327/lists/basic-conditioning)
-4. [Compilations](https://github.com/stars/RyannKim327/lists/compillation)
+4. [Compilations](https://github.com/stars/RyannKim327/lists/compilation)
 5. [Console Projects](https://github.com/stars/RyannKim327/lists/console-projects)
 6. [Fork x Pull](https://github.com/stars/RyannKim327/lists/fork-x-pull)
 7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)
