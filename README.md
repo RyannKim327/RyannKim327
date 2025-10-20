@@ -7,18 +7,18 @@
 
 ---
 
-### My Lists
-
-1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development)
-2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)
-3. [Basic Conditioning](https://github.com/stars/RyannKim327/lists/basic-conditioning)
-4. [Compilations](https://github.com/stars/RyannKim327/lists/compilation)
-5. [Console Projects](https://github.com/stars/RyannKim327/lists/console-projects)
-6. [Fork x Pull](https://github.com/stars/RyannKim327/lists/fork-x-pull)
-7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)
-8. [My Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)
-9. [My Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)
-10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)
+| My Lists                                                                                 | Resources and Tools                                           |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development) | 1. [CSS Icons](https://cssicon.space/#/animate/map/to/plus)   |
+| 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)               | 2. [TailwindCSS](https://tailwindcss.com/)                    |
+| 3. [Basic Conditioning](https://github.com/stars/RyannKim327/lists/basic-conditioning)   | 3. [FontAwesome](https://fontawesome.com/)                    |
+| 4. [Compilations](https://github.com/stars/RyannKim327/lists/compilation)                | 4. [OpenSourceAlternative](https://opensourcealternative.to/) |
+| 5. [Console Projects](https://github.com/stars/RyannKim327/lists/console-projects)       | 5. [Neovim](https://neovim.io/)                               |
+| 6. [Fork x Pull](https://github.com/stars/RyannKim327/lists/fork-x-pull)                 | 6. [GeeksForGeeks](https://www.geeksforgeeks.org/)            |
+| 7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)            | 7. [W3schools](https://w3schools.com)                         |
+| 8. [My Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)       | 8. [NerdFonts](https://www.nerdfonts.com/font-downloads)      |
+| 9. [My Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)         | 9. [Roadmaps](https://roadmap.sh)                             |
+| 10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)              |                                                               |
 
 > For more repositories, just go [here](https://github.com/stars/RyannKim327/lists/my-repos).
 
@@ -32,7 +32,7 @@
 
 | Compillations                                                                          |                                      Language                                       |
 | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: |
-| [Python Programs](https://github.com/RyannKim327/Python-Programming-Compilation)      |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
+| [Python Programs](https://github.com/RyannKim327/Python-Programming-Compilation)       |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
 | [C# Programs](https://github.com/RyannKim327/C-Sharp-Compillations)                    |      ![](https://img.shields.io/badge/-C_Sharp-black?color=178600&style=flat)       |
 | [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs)                  |        ![](https://img.shields.io/badge/-CPP-black?color=f34b7d&style=flat)         |
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs)                |        ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat)        |
@@ -99,17 +99,88 @@
 
 ---
 
-### Some resources and tools:
+<!--START_SECTION:waka-->
 
-1. [CSS Icons](https://cssicon.space/#/animate/map/to/plus)
-2. [TailwindCSS](https://tailwindcss.com/)
-3. [FontAwesome](https://fontawesome.com/)
-4. [OpenSourceAlternative](https://opensourcealternative.to/)
-5. [Neovim](https://neovim.io/)
-6. [GeeksForGeeks](https://www.geeksforgeeks.org/)
-7. [W3schools](https://w3schools.com)
-8. [NerdFonts](https://www.nerdfonts.com/font-downloads)
-9. [Roadmaps](https://roadmap.sh)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+
+**🐱 My GitHub Data**
+
+> 📦 ? Used in GitHub's Storage
+>
+> 🏆 34,785 Contributions in the Year 2025
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 134 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
+
+```text
+🌞 Morning                25996 commits       ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+🌆 Daytime                23651 commits       ██████░░░░░░░░░░░░░░░░░░░   22.30 %
+🌃 Evening                31541 commits       ███████░░░░░░░░░░░░░░░░░░   29.75 %
+🌙 Night                  24849 commits       ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+```
+
+📅 **I'm Most Productive on Sunday**
+
+```text
+Monday                   14637 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Tuesday                  14998 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Wednesday                15525 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Thursday                 15035 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Friday                   13998 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Saturday                 14729 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Sunday                   17115 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages:
+TypeScript               8 hrs 38 mins       █████████████░░░░░░░░░░░░   50.14 %
+Python                   3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+pdf                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+QML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+
+🔥 Editors:
+Neovim                   17 hrs 14 mins      █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Starhorse-Frontend       4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 %
+CapstoneBackend          3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 %
+Starhorse                2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 %
+Capstone-Frontend        2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 %
+Unknown Project          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 %
+
+💻 Operating System:
+Linux                    17 hrs 14 mins      █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               50 repos            ████████░░░░░░░░░░░░░░░░░   33.11 %
+Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.22 %
+TypeScript               22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
+HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
+
+Last Updated on 20/10/2025 06:39:58 UTC
+
+<!--END_SECTION:waka-->
 
 ---
 
@@ -126,6 +197,7 @@
 ---
 
 ### Github Contribution
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RyannKim327&theme=transparent&date_format=j%2Fn%5B%2FY%5D&card_width=750&card_height=190)](https://git.io/streak-stats)
 
 ---
@@ -135,90 +207,6 @@
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eypmzfwhbfe5obw3v34kentfem&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 ---
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2028%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 34,785 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 134 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25996 commits       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌆 Daytime                23651 commits       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-🌃 Evening                31541 commits       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-🌙 Night                  24849 commits       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   14637 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Tuesday                  14998 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Wednesday                15525 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 15035 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   13998 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Saturday                 14729 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Sunday                   17115 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-TypeScript               8 hrs 38 mins       █████████████░░░░░░░░░░░░   50.14 % 
-Python                   3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-pdf                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-QML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-
-🔥 Editors: 
-Neovim                   17 hrs 14 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Starhorse-Frontend       4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-CapstoneBackend          3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Starhorse                2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Capstone-Frontend        2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Unknown Project          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-
-💻 Operating System: 
-Linux                    17 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               50 repos            ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Python                   26 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-TypeScript               22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
-
-
- Last Updated on 20/10/2025 06:39:58 UTC
-<!--END_SECTION:waka-->
 
 ### Contribution Calendar Metrics
 
@@ -260,7 +248,7 @@ QML                      1 repo              ░░░░░░░░░░░�
       </a>
     </td>
     <td>  
-      <a href="https://discord.com/@ryannkim327">
+      <a href="https://discord.com/users/603453758101520385">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/discord.svg">
       </a>
     </td>
@@ -275,6 +263,6 @@ QML                      1 repo              ░░░░░░░░░░░�
       </a>
     </td>  
   </tr>
-</table
-[![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
-[![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876.svg)](https://wakatime.com/@8ef6ba9a-e605-4488-8da5-581413894876)
+</table>
+
+| [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327) | [![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876.svg)](https://wakatime.com/@8ef6ba9a-e605-4488-8da5-581413894876) |
