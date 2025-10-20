@@ -267,4 +267,4 @@ Last Updated on 20/10/2025 06:39:58 UTC
 
 - [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
 - [![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876.svg)](https://wakatime.com/@8ef6ba9a-e605-4488-8da5-581413894876)
-- [![committers.top badge](https://user-badge.committers.top/philippines_private/RyannKim327.svg)](https://user-badge.committers.top/philippines_private/RyannKim327) |
+- [![committers.top badge](https://user-badge.committers.top/philippines_private/RyannKim327.svg)](https://user-badge.committers.top/philippines_private/RyannKim327)
