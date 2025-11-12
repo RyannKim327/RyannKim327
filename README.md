@@ -48,7 +48,7 @@
 
 | NodeJS Packages                                                                       |                                     Language                                      |
 | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------: |
-| [Baybayin Transliterator](https://github.com/RyannKim327/Baybayin-Transliterator)     | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
+| [Baybayin Transliterator](https://github.com/RyannKim327/Baybayin-Transliterator)     | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
 | [Image to Text](https://github.com/RyannKim327/image-to-text)                         | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
 | [Billboards Worship Scrape](https://github.com/RyannKim327/Billboards-worship-scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [Ultimate Tabs Guitar](https://github.com/RyannKim327/UltimateGuitar-Project)         | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
