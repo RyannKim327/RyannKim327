@@ -100,7 +100,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -108,11 +108,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 39,156 Contributions in the Year 2025
+> 🏆 39,185 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 138 Public Repositories 
+> 📜 137 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -120,14 +120,14 @@
 
 ```text
 🌞 Morning                26976 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.33 % 
-🌆 Daytime                24873 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.43 % 
+🌆 Daytime                24881 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.44 % 
 🌃 Evening                32821 commits       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.60 % 
-🌙 Night                  26220 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.65 % 
+🌙 Night                  26220 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.64 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   15227 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.73 % 
+Monday                   15235 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.74 % 
 Tuesday                  15716 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.17 % 
 Wednesday                16233 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.64 % 
 Thursday                 15646 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.11 % 
@@ -180,7 +180,7 @@ QML                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2025 06:56:12 UTC
+ Last Updated on 17/11/2025 09:01:03 UTC
 <!--END_SECTION:waka-->
 
 ---
