@@ -3,9 +3,9 @@
 
 <img src="assets/banner.png" >
 
-<p align="center">
+<!--p align="center">
  <img src="https://readme-typing-svg.demolab.com?center=true&font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua">
-</p>
+</p-->
 
 ---
 
