@@ -1,5 +1,7 @@
-<h1 align="center">Ryann Kim M. Sesgundo</h1>
-<h3 align="center">[MPOP Reverse II]</h3>
+<!--h1 align="center">Ryann Kim M. Sesgundo</h1>
+<h3 align="center">[MPOP Reverse II]</h3-->
+
+<img src="assets/banner.png" >
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?center=true&font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua">
