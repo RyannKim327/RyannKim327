@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          github-token: ${{ secrets.GH_TOKEN }}
           filename: assets/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GH_TOKEN }}
 
