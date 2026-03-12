@@ -102,13 +102,15 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 11,858 Contributions in the Year 2026
+> 🏆 11,871 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,7 +135,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 23:03:08 UTC
+ Last Updated on 12/03/2026 03:04:24 UTC
 <!--END_SECTION:waka-->
 
 ---
