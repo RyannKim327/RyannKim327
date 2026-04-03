@@ -34,12 +34,12 @@
 
 | Compillations                                                                          |                                      Language                                       |
 | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: |
-| [Python Programs](https://github.com/RyannKim327/Python-Programming-Compilation)       |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
-| [C# Programs](https://github.com/RyannKim327/C-Sharp-Compillations)                    |      ![](https://img.shields.io/badge/-C_Sharp-black?color=178600&style=flat)       |
-| [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs)                  |        ![](https://img.shields.io/badge/-CPP-black?color=f34b7d&style=flat)         |
-| [Java Programs](https://github.com/RyannKim327/Java-compilled-programs)                |        ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat)        |
-| [SQL Samples](https://github.com/RyannKim327/SQL-Samples)                              |        ![](https://img.shields.io/badge/-SQL-black?color=B9CE3D&style=flat=logo=sql)         |
-| [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects)        |       ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat&logo=julia)        |
+| [Python Programs](https://github.com/RyannKim327/Python-Programming-Compilation)       |       ![](https://img.shields.io/badge/Python-Programming-black?color=3572A5&style=flat&logo=python)       |
+| [C# Programs](https://github.com/RyannKim327/C-Sharp-Compillations)                    |      ![](https://img.shields.io/badge/C_Sharp-Programming-black?color=178600&style=flat&logo=cs)       |
+| [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs)                  |        ![](https://img.shields.io/badge/CPP-Programming-black?color=f34b7d&style=flat&logo=cpp)         |
+| [Java Programs](https://github.com/RyannKim327/Java-compilled-programs)                |        ![](https://img.shields.io/badge/Java-Programming-black?color=b07219&style=flat&logo=java)        |
+| [SQL Samples](https://github.com/RyannKim327/SQL-Samples)                              |        ![](https://img.shields.io/badge/SQL-Compilation-black?color=B9CE3D&style=flat=logo=sql)         |
+| [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects)        |       ![](https://img.shields.io/badge/Julia-Programming-black?color=a270ba&style=flat&logo=julia)        |
 | [PHP and MySQL](https://github.com/RyannKim327/Basic-CRUD-in-PHP-and-MySQL)            |      ![](https://img.shields.io/badge/MySQL-PHP-black?color=4F5D95&style=flat)      |
 | [Django Framework](https://github.com/RyannKim327/DjangoPractice)                      |       ![](https://img.shields.io/badge/Python-Django-black?color=3572A5&style=flat&logo=django)       |
 | [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/Python-Flask-black?color=3572A5&style=flat&logo=flask)       |
