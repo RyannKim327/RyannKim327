@@ -44,6 +44,7 @@
 | [Django Framework](https://github.com/RyannKim327/DjangoPractice)                      |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
 | [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
 | [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat) |
+| [Card Game](https://github.com/RyannKim327/cardgame) | ![](https://img.shields.io/badge/Svelte-black?color=ff3c00&style=flat)|
 
 </td>
 <td valign="top">
