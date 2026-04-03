@@ -55,13 +55,13 @@
 | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------: |
 | [Baybayin Transliterator](https://github.com/RyannKim327/Baybayin-Transliterator)     | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 | [Image to Text](https://github.com/RyannKim327/image-to-text)                         | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
-| [Billboards Worship Scrape](https://github.com/RyannKim327/Billboards-worship-scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=fla&logo=npmt) |
+| [Billboards Worship Scrape](https://github.com/RyannKim327/Billboards-worship-scrape) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=fla&logo=npm) |
 | [Ultimate Tabs Guitar](https://github.com/RyannKim327/UltimateGuitar-Project)         | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 | [Encryptions](https://github.com/RyannKim327/MPOP-Encryptions)                        | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat&logo=npm) |
 | [Gender Identification](https://github.com/RyannKim327/Gender-Identification)         | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat&logo=npm) |
 | [Biblegateway](https://github.com/RyannKim327/biblegateway)                           | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 | [Google Scholar Scrape](https://github.com/RyannKim327/Google-Scholar-Scrape)         | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat&logo=npm) |
-| [Encrypted](https://github.com/RyannKim327/Encrypted-JSON)                        | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
+| [Encrypted JSON](https://github.com/RyannKim327/Encrypted-JSON)                        | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 
 
 </td>
