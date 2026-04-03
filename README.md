@@ -38,11 +38,11 @@
 | [C# Programs](https://github.com/RyannKim327/C-Sharp-Compillations)                    |      ![](https://img.shields.io/badge/-C_Sharp-black?color=178600&style=flat)       |
 | [C++ Programs](https://github.com/RyannKim327/cpp-compilled-programs)                  |        ![](https://img.shields.io/badge/-CPP-black?color=f34b7d&style=flat)         |
 | [Java Programs](https://github.com/RyannKim327/Java-compilled-programs)                |        ![](https://img.shields.io/badge/-Java-black?color=b07219&style=flat)        |
-| [SQL Samples](https://github.com/RyannKim327/SQL-Samples)                              |        ![](https://img.shields.io/badge/-SQL-black?color=B9CE3D&style=flat)         |
-| [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects)        |       ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat)        |
+| [SQL Samples](https://github.com/RyannKim327/SQL-Samples)                              |        ![](https://img.shields.io/badge/-SQL-black?color=B9CE3D&style=flat=logo=sql)         |
+| [Julia Programming](https://github.com/RyannKim327/Julia-Compillation-Projects)        |       ![](https://img.shields.io/badge/-Julia-black?color=a270ba&style=flat&logo=julia)        |
 | [PHP and MySQL](https://github.com/RyannKim327/Basic-CRUD-in-PHP-and-MySQL)            |      ![](https://img.shields.io/badge/MySQL-PHP-black?color=4F5D95&style=flat)      |
-| [Django Framework](https://github.com/RyannKim327/DjangoPractice)                      |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
-| [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)       |
+| [Django Framework](https://github.com/RyannKim327/DjangoPractice)                      |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat&logo=python)       |
+| [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat&logo=python)       |
 | [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat) |
 | [Card Game](https://github.com/RyannKim327/cardgame) | ![](https://img.shields.io/badge/Vite-Svelte-black?color=ff3c00&style=flat&logo=svelte)|
 | [Portfolio](https://github.com/RyannKim327/ryannkim327.github.io) | ![](https://img.shields.io/badge/Vite-7.3.1-646CFF?style=flat&logo=vite)|
