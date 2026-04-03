@@ -45,7 +45,7 @@
 | [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/Python-Flask-black?color=3572A5&style=flat&logo=flask)       |
 | [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat) |
 | [Card Game](https://github.com/RyannKim327/cardgame) | ![](https://img.shields.io/badge/Vite-Svelte-black?color=ff3c00&style=flat&logo=svelte)|
-| [Portfolio](https://github.com/RyannKim327/ryannkim327.github.io) | ![](https://img.shields.io/badge/Vite--646CFF?style=flat&logo=vite)|
+| [Portfolio](https://github.com/RyannKim327/ryannkim327.github.io) | ![](https://img.shields.io/badge/Vite-ReactJS-646CFF?style=flat&logo=reactjs)|
 | [Portfolio Backend](https://github.com/RyannKim327/portfolio-backend) | ![](https://img.shields.io/badge/Go-GIN-black?color=00ADD8&style=flat&logo=go)|
 
 </td>
