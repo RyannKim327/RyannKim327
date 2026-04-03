@@ -277,5 +277,5 @@ Svelte                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </table>
 
 - [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
-- [![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876.svg)](https://wakatime.com/@8ef6ba9a-e605-4488-8da5-581413894876)
+- [![wakatime](https://wakatime.com/badge/user/61954829-dd88-47de-8b67-7d673663ea1c.svg)](https://wakatime.com/@61954829-dd88-47de-8b67-7d673663ea1c)
 - [![committers.top badge](https://user-badge.committers.top/philippines_private/RyannKim327.svg)](https://user-badge.committers.top/philippines_private/RyannKim327)
