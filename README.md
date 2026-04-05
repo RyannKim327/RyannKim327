@@ -200,7 +200,7 @@ Svelte                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### Coding activity based on Wakatime
 
-[![Mr.RySes's Coding Activity Graph](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)](https://wakatime.com/share/@RyannKim327/dd925ff9-2f71-4f06-a339-329c1486869f.svg)
+[![Mr.RySes's Coding Activity Graph](https://wakatime.com/share/@RyannKim327/da461a2e-36b7-4d3b-929e-b4df74b689a5.svg)](https://wakatime.com/share/@RyannKim327/da461a2e-36b7-4d3b-929e-b4df74b689a5.svg)
 
 ---
 
