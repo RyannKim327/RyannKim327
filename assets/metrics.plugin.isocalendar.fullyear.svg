@@ -2016,10 +2016,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.91701244813278 0,2.91701244813278 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.91701244813278 1.7,3.91701244813278 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.605809128630705)">
+                            <g transform="translate(-6.8, 8.58091286307054)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3941908713692945 0,2.3941908713692945 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3941908713692945 1.7,3.3941908713692945 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4190871369294604 0,2.4190871369294604 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4190871369294604 1.7,3.4190871369294604 z"/>
                             </g>
                         </g>
                     </g>
