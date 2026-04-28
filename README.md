@@ -20,7 +20,7 @@
 | 7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)            | 7. [W3schools](https://w3schools.com)                         |
 | 8. [My Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)       | 8. [NerdFonts](https://www.nerdfonts.com/font-downloads)      |
 | 9. [My Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)         | 9. [Roadmaps](https://roadmap.sh)                             |
-| 10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)              |                                                               |
+| 10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)              | 10. [Google Fonts](https://fonts.google.com/)                                                              |
 
 > For more repositories, just go [here](https://github.com/stars/RyannKim327/lists/my-repos).
 
