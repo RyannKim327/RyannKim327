@@ -69,7 +69,7 @@
 <tr valign="top">
 <td valign="top">
 
-| Bots                                                                    |                                     Language                                      |
+| Bots and Automations                                                                   |                                     Language                                      |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------: |
 | [BhieBot](https://github.com/RyannKim327/BhieBot)                       | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [Facebook Bot](https://github.com/RyannKim327/FacebookBot)              | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
@@ -78,6 +78,8 @@
 | [Facebook Bot](https://github.com/RyannKim327/Facebook-Bot-Python)      |      ![](https://img.shields.io/badge/-Python-black?color=3572A5&style=flat)      |
 | [Chat-App with auto bots](https://github.com/RyannKim327/chat-app)      | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [TeleBot-Typescript](https://github.com/RyannKim327/TeleBot-Typescript) |    ![](https://img.shields.io/badge/-Typescript-black?color=3178c6&style=flat)    |
+| [Facebook Page Bot](https://github.com/RyannKim327/PageBot) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
+| [AI Tutor (Facebook Posting and Automated Updates)](https://github.com/RyannKim327/ai-tutor) | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
 
 </td>
 <td valign="top">
