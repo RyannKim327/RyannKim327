@@ -109,7 +109,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -117,7 +117,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 17,949 Contributions in the Year 2026
+> 🏆 17,919 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -189,7 +189,7 @@ Svelte                   4 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 15:16:43 UTC
+ Last Updated on 16/05/2026 17:22:01 UTC
 <!--END_SECTION:waka-->
 
 ---
