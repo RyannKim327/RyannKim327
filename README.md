@@ -9,18 +9,19 @@
 
 ---
 
-| My Lists                                                                                 | Resources and Tools                                           |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development) | 1. [CSS Icons](https://cssicon.space/#/animate/map/to/plus)   |
-| 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)               | 2. [TailwindCSS](https://tailwindcss.com/)                    |
-| 3. [Basic Conditioning](https://github.com/stars/RyannKim327/lists/basic-conditioning)   | 3. [FontAwesome](https://fontawesome.com/)                    |
-| 4. [Compilations](https://github.com/stars/RyannKim327/lists/compilation)                | 4. [OpenSourceAlternative](https://opensourcealternative.to/) |
-| 5. [Console Projects](https://github.com/stars/RyannKim327/lists/console-projects)       | 5. [Neovim](https://neovim.io/)                               |
-| 6. [Fork x Pull](https://github.com/stars/RyannKim327/lists/fork-x-pull)                 | 6. [GeeksForGeeks](https://www.geeksforgeeks.org/)            |
-| 7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)            | 7. [W3schools](https://w3schools.com)                         |
-| 8. [My Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)       | 8. [NerdFonts](https://www.nerdfonts.com/font-downloads)      |
-| 9. [My Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)         | 9. [Roadmaps](https://roadmap.sh)                             |
-| 10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)              | 10. [Google Fonts](https://fonts.google.com/)                                                              |
+| My Lists                                                                                 | Resources and Tools                                           | Android Tools |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- |
+| 1. [Android Development](https://github.com/stars/RyannKim327/lists/android-development) | 1. [CSS Icons](https://cssicon.space/#/animate/map/to/plus)   | 1. [Termux](https://f-droid.org/en/packages/com.termux/) |
+| 2. [API Projects](https://github.com/stars/RyannKim327/lists/api-projects)               | 2. [TailwindCSS](https://tailwindcss.com/)                    | 2. [HTML Code Play](https://play.google.com/store/apps/details?id=com.HTML.AngularJS.Codeplay&hl=en) |
+| 3. [Basic Conditioning](https://github.com/stars/RyannKim327/lists/basic-conditioning)   | 3. [FontAwesome](https://fontawesome.com/)                    | 3. [PyDroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en) |
+| 4. [Compilations](https://github.com/stars/RyannKim327/lists/compilation)                | 4. [OpenSourceAlternative](https://opensourcealternative.to/) | 4. [AIDE (Android Development)](https://drive.google.com/file/d/12XI13ettlOzRKw1A8XB6JLt_l8PZT8zS/view?usp=drive_link) |
+| 5. [Console Projects](https://github.com/stars/RyannKim327/lists/console-projects)       | 5. [Neovim](https://neovim.io/)                               | 5. [Replit](https://replit.com) |
+| 6. [Fork x Pull](https://github.com/stars/RyannKim327/lists/fork-x-pull)                 | 6. [GeeksForGeeks](https://www.geeksforgeeks.org/)            | 6. [SQL Code Play](https://play.google.com/store/apps/details?id=sql.code.play&hl=en) |
+| 7. [Graphical User Interface](https://github.com/stars/RyannKim327/lists/gui)            | 7. [W3schools](https://w3schools.com)                         | 7. [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en) |
+| 8. [My Java Programs](https://github.com/stars/RyannKim327/lists/my-java-programs)       | 8. [NerdFonts](https://www.nerdfonts.com/font-downloads)      | 8. [TrebEdit](https://play.google.com/store/apps/details?id=com.teejay.trebedit&hl=en) |
+| 9. [My Web Projects](https://github.com/stars/RyannKim327/lists/my-web-projects)         | 9. [Roadmaps](https://roadmap.sh)                             | 9. [Front-end-Editor](https://github.com/RyannKim327/Front-end-Editor) |
+| 10. [NPM Packages](https://github.com/stars/RyannKim327/lists/npm-packages)              | 10. [Google Fonts](https://fonts.google.com/) |                                                              |
+| | 11. [Sololearn](https://sololearn.com) | |
 
 > For more repositories, just go [here](https://github.com/stars/RyannKim327/lists/my-repos).
 
