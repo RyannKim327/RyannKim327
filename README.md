@@ -110,7 +110,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -118,7 +118,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 20,429 Contributions in the Year 2026
+> 🏆 20,454 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,7 +190,7 @@ Vue                      2 repos             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 16:02:41 UTC
+ Last Updated on 19/06/2026 18:31:40 UTC
 <!--END_SECTION:waka-->
 
 ---
