@@ -46,7 +46,7 @@
 | [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/Python-Flask-black?color=3572A5&style=flat&logo=flask)       |
 | [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat) |
 
-    </td>
+</td>
 <td valign="top">
 
 | NodeJS Packages                                                                       |                                     Language                                      |
