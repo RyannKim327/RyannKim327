@@ -45,11 +45,8 @@
 | [Django Framework](https://github.com/RyannKim327/DjangoPractice)                      |       ![](https://img.shields.io/badge/Python-Django-black?color=3572A5&style=flat&logo=django)       |
 | [Flask Framework](https://github.com/RyannKim327/FlaskProject)                         |       ![](https://img.shields.io/badge/Python-Flask-black?color=3572A5&style=flat&logo=flask)       |
 | [Web Challenges for Newbies](https://github.com/RyannKim327/Web-Challenges-for-Newbie) | ![](https://img.shields.io/badge/HTML_CSS-JavaScript-black?color=f1e05a&style=flat) |
-| [Portfolio](https://github.com/RyannKim327/ryannkim327.github.io) | ![](https://img.shields.io/badge/Vite-Svelte-ff3c00?style=flat&logo=svelte)|
-| [Portfolio Backend](https://github.com/RyannKim327/portfolio-backend) | ![](https://img.shields.io/badge/Go-GIN-black?color=00ADD8&style=flat&logo=go)|
-| [Musynx](https://github.com/RyannKim327/musynx) | ![](https://img.shields.io/badge/Vite-Vue-41B883?style=flat&logo=vue) |
 
-</td>
+    </td>
 <td valign="top">
 
 | NodeJS Packages                                                                       |                                     Language                                      |
@@ -80,7 +77,7 @@
 | [Chat-App with auto bots](https://github.com/RyannKim327/chat-app)      | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
 | [TeleBot-Typescript](https://github.com/RyannKim327/TeleBot-Typescript) |    ![](https://img.shields.io/badge/-Typescript-black?color=3178c6&style=flat)    |
 | [Facebook Page Bot](https://github.com/RyannKim327/PageBot) | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat) |
-| [AI Tutor (Facebook Posting and Automated Updates)](https://github.com/RyannKim327/ai-tutor) | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
+| [AI Tutor](https://github.com/RyannKim327/ai-tutor) | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat) |
 
 </td>
 <td valign="top">
