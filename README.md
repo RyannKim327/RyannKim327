@@ -60,7 +60,7 @@
 | [Biblegateway](https://github.com/RyannKim327/biblegateway)                           | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 | [Google Scholar Scrape](https://github.com/RyannKim327/Google-Scholar-Scrape)         | ![](https://img.shields.io/badge/Javascript-NodeJS-black?color=336633&style=flat&logo=npm) |
 | [Encrypted JSON](https://github.com/RyannKim327/Encrypted-JSON)                        | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
-
+| [Ormyx](https://github.com/RyannKim327/ormyx) | ![](https://img.shields.io/badge/Typescript-NodeJS-black?color=3178c6&style=flat&logo=npm) |
 
 </td>
 </tr>
