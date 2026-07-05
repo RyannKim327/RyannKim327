@@ -107,7 +107,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -188,7 +188,7 @@ Blade                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 15:46:54 UTC
+ Last Updated on 05/07/2026 17:41:52 UTC
 <!--END_SECTION:waka-->
 
 ---
