@@ -100,8 +100,8 @@
 
 |                                                                                                                                      |                                                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://readme-stats-github.pages.dev/api?username=ryannkim327&theme=dark&show_icons=true&theme=radical)                                   |                           ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannkim327&layout=compact&theme=radical&hide=jupyter%20notebook) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyannKim327&theme=radical&hide=jupyter%20notebook) |
+| ![](https://readme-stats-github.pages.dev/api?username=ryannkim327&theme=dark&show_icons=true&theme=radical)                                   |                           ![](https://readme-stats-github.pages.dev/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
+| ![](https://readme-stats-github.pages.dev/api/top-langs/?username=ryannkim327&layout=compact&theme=radical&hide=jupyter%20notebook) | ![](https://readme-stats-github.pages.dev/api/cards/most-commit-language?username=RyannKim327&theme=radical&hide=jupyter%20notebook) |
 | ![](https://trophy.ryglcloud.net/?username=RyannKim327&theme=radical&column=4)                                           |     ![Mr.RySes Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ryannkim327&theme=radical&layout=compact&langs_count=10) |
 
 ---
