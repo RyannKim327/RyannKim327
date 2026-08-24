@@ -111,7 +111,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -213,7 +213,7 @@ Blade                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyannKim327/RyannKim327/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 07:40:28 UTC
+ Last Updated on 24/08/2026 09:28:40 UTC
 <!--END_SECTION:waka-->
 
 ---
