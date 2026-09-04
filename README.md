@@ -1,8 +1,12 @@
 <!--h1 align="center">Ryann Kim M. Sesgundo</h1>
 <h3 align="center">[MPOP Reverse II]</h3-->
+<div align="center">
 
-<img src="assets/banner.png" >
+![](https://gitlyy.vercel.app/api/profile?username=RyannKim327&hide_border=true)
 
+![](https://gitlyy.vercel.app/api/overview?username=RyannKim327&hide_border=true)
+
+</div>
 <!--p align="center">
  <img src="https://readme-typing-svg.demolab.com?center=true&font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet;consectetur+adipiscing+elit;sed+do+eiusmod+tempor+incididunt+ut;labore+et+dolore+magna+aliqua">
 </p-->
@@ -98,11 +102,13 @@
 
 ### Activities
 
+
 |                                                                                                                                      |                                                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://readme-stats-github.pages.dev/api?username=ryannkim327&theme=dark&show_icons=true&theme=radical)                                   |                           ![](https://readme-stats-github.pages.dev/api/cards/repos-per-language?username=RyannKim327&theme=radical) |
-| ![](https://readme-stats-github.pages.dev/api/top-langs/?username=ryannkim327&layout=compact&theme=radical&hide=jupyter%20notebook) | ![](https://readme-stats-github.pages.dev/api/cards/most-commit-language?username=RyannKim327&theme=radical&hide=jupyter%20notebook) |
+| ![](https://gitlyy.vercel.app/api/languages?username=RyannKim327&hide_border=true) | ![](https://readme-stats-github.pages.dev/api/cards/most-commit-language?username=RyannKim327&theme=radical&hide=jupyter%20notebook) |
 | ![](https://trophy.ryglcloud.net/?username=RyannKim327&theme=radical&column=4)                                           |     ![Mr.RySes Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ryannkim327&theme=radical&layout=compact&langs_count=10) |
+| ![](https://gitlyy.vercel.app/api/languages/repos?username=RyannKim327&hide_border=true) | ![](https://gitlyy.vercel.app/api/issues?username=RyannKim327&hide_border=true) |
 
 ---
 
@@ -304,3 +310,9 @@ Blade                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - [![committers.top badge](https://user-badge.committers.top/philippines/RyannKim327.svg)](https://user-badge.committers.top/philippines/RyannKim327)
 - [![wakatime](https://wakatime.com/badge/user/61954829-dd88-47de-8b67-7d673663ea1c.svg)](https://wakatime.com/@61954829-dd88-47de-8b67-7d673663ea1c)
 - [![committers.top badge](https://user-badge.committers.top/philippines_private/RyannKim327.svg)](https://user-badge.committers.top/philippines_private/RyannKim327)
+
+<div align="center">
+
+![](https://gitlyy.vercel.app/api/contribution?username=RyannKim327&hide_border=true)
+
+</div>
